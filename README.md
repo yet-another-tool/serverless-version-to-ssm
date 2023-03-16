@@ -3,7 +3,7 @@
 ![Project Logo](https://webuxlab-static.s3.ca-central-1.amazonaws.com/logoAmpoule.svg)
 
 <h2>Serverless Lambda Version Extraction</h2>
-<p>To save values directly in SSM</p>
+<p>To save lambda verson directly in AWS SSM</p>
 
 <p align="center">
   <a href="https://github.com/yet-another-tool/serverless-version-to-ssm/issues">Report Bug</a>
@@ -41,24 +41,6 @@
 ---
 
 ## About
-
-<div>
-<b> | </b>
-<a href="https://www.buymeacoffee.com/studiowebux" target="_blank"
-      ><img
-        src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-        alt="Buy Me A Coffee"
-        style="height: 30px !important; width: 105px !important"
-/></a>
-<b> | </b>
-<a href="https://webuxlab.com" target="_blank"
-      ><img
-        src="https://webuxlab-static.s3.ca-central-1.amazonaws.com/logoAmpoule.svg"
-        alt="Webux Logo"
-        style="height: 30px !important"
-/> Webux Lab</a>
-<b> | </b>
-</div>
 
 ---
 
@@ -251,5 +233,23 @@ git commit -m "test: added tests"
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
+
+<div>
+<b> | </b>
+<a href="https://www.buymeacoffee.com/studiowebux" target="_blank"
+      ><img
+        src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+        alt="Buy Me A Coffee"
+        style="height: 30px !important; width: 105px !important"
+/></a>
+<b> | </b>
+<a href="https://webuxlab.com" target="_blank"
+      ><img
+        src="https://webuxlab-static.s3.ca-central-1.amazonaws.com/logoAmpoule.svg"
+        alt="Webux Logo"
+        style="height: 30px !important"
+/> Webux Lab</a>
+<b> | </b>
+</div>
 
 - Tommy Gingras @ tommy@studiowebux.com
